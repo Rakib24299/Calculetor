@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    height: 65px;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: 700;
+    transition: 0.2s;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
+.btn:active {
+    transform: scale(0.95);
+}
+
+.number {
+    background: #f3f4f6;
+}
+
+.number:hover {
+    background: #e5e7eb;
+}
+
+.operator {
+    background: #3b82f6;
+    color: white;
+}
+
+.operator:hover {
+    background: #2563eb;
+}
+
+.equal {
+    background: #22c55e;
+    color: white;
+    height: 100%;
+}
+
+.equal:hover {
+    background: #16a34a;
+}
