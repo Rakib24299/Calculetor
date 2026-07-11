@@ -54,11 +54,7 @@ git clone https://github.com/Rakib24299/Calculetor.git
 ## 🎯 Future Improvements
 
 * Keyboard support
-* Scientific calculator functions
-* Dark/Light mode toggle
-* Calculation history
 * Better error handling
-* Theme customization
 
 ## 👨‍💻 Author
 
