@@ -3,6 +3,9 @@
 
 A simple and responsive calculator built using **HTML**, **Tailwind CSS**, and **JavaScript**.
 
+## live link 
+ https://rakib24299.github.io/Calculetor/
+
 ## ✨ Features
 
 * Basic arithmetic operations
